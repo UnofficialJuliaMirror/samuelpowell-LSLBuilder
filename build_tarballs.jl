@@ -3,7 +3,7 @@
 using BinaryBuilder
 
 name = "liblsl"
-version = v"1.13.0"
+version = v"1.13.0-b13"
 
 # Collection of sources required to build liblsl
 sources = [
